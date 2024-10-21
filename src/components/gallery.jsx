@@ -50,7 +50,7 @@ export const Gallery = (props) => {
 
             .image-container {
               position: relative;
-              margin-bottom: 20px; /* Aumenta el espaciado entre las imágenes */
+              margin-bottom: 20px; 
             }
           }
 
